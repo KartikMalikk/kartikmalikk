@@ -1,22 +1,138 @@
 <div align="center">
+<h1 align="center">Hi 👋, I'm Kartik Malik</h1>
+<h3 align="center">🚀 Python Developer | AI/ML Enthusiast | Backend Engineer</h3>
 
-# 💫 About Me:
-## 👋 About Me
+---
 
-Hi, I'm Kartik Malik, a Python Developer and AI/ML enthusiast passionate about building intelligent, scalable, and user-focused applications.
+# 💫 About Me
 
-I specialize in backend development, machine learning, and AI-powered solutions using Python, FastAPI, Django, and modern data technologies.
+💻 Computer Science Engineering student passionate about building intelligent, scalable backend applications, workflow automations, and AI/ML data-driven solutions.
 
-🔹 Building REST APIs and full-stack applications  
-🔹 Exploring Machine Learning, NLP, and Generative AI  
-🔹 Developing automation tools and intelligent systems  
-🔹 Learning system design, cloud technologies, and scalable architectures  
+- 🤖 Developed **JARVIS AI**, a Python-based virtual assistant framework
+- 📄 Built a **Vendor Invoice Intelligence System** powered by Machine Learning
+- 🔍 Developed a **Fake News Detector** using NLP techniques to analyze information credibility
+- 🛠️ Currently conquering a **100 Python Projects** challenge to advance engineering levels
+- 🔄 Experience writing automated scripts using web automation tools like Playwright and Selenium
+- 🧠 Deeply interested in Generative AI, Natural Language Processing (NLP), and System Design
+- ☁️ Skilled in working with FastAPI, Django, Flask, Databases (MongoDB, MySQL), and Docker
+- 🚀 Passionate about bridging the gap between clean software engineering and artificial intelligence
 
-B.Tech in Computer Science Engineering and working on projects that combine software engineering with artificial intelligence.
+---
 
-🚀 Always learning. Always building.
+# 🏆 Highlights
 
-</div>
+- 🤖 Developed an AI Assistant framework with custom Python configurations
+- 📊 Built data intelligence models utilizing Pandas, NumPy, and Scikit-learn
+- 🛠️ Implementing a personal development challenge of 100+ production-ready script modules
+- 🕷️ Experience scraping and navigating complex sites using Playwright & Selenium core drivers
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/kartik-malik-2a217a401">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:kartikey2023@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 JARVIS AI
+An interactive, automated intelligent virtual assistant system built entirely natively using modular Python components.
+
+## 📊 Vendor Invoice Intelligence System (ML)
+An end-to-end Machine Learning implementation designed to process, parse, and analyze vendor financial invoices using advanced data processing.
+
+## 🔍 Fake News Detector
+An NLP processing model aimed at scanning textual elements and evaluating cross-verified accuracy vectors to catch misinformation.
+
+## 🐍 100 Python Projects Challenge
+An active repository documenting an intensive curriculum of building 100 real-world applications to master architectural styles and deep programming logic.
+
+---
+
+# 🧠 Tech Stack
+
+## 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+
+---
+
+## 🤖 Machine Learning & AI
+
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Natural Language Processing](https://img.shields.io/badge/NLP-Natural_Language_Processing-green?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-AI-orange?style=for-the-badge)
+
+---
+
+## ⚙️ Backend Frameworks & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens)
+![REST API](https://img.shields.io/badge/REST_API-Backend-blue?style=for-the-badge)
+
+---
+
+## 📊 Data Processing & Engineering
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
+
+---
+
+## 🗄️ Databases & Hosting
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
+
+---
+
+## 🛠️ Tools & Design
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=canva)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikMalikk&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Kartik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KartikMalikk&theme=tokyo-night)](https://github.com/KartikMalikk)
+
+---
+
+<p align="center">
+🚀 Always Learning • Always Building • Always Improving
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-malik-2a217a401) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:03kartikmalik@gmail.com) 
