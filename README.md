@@ -110,51 +110,10 @@ Trophies
 </div>
 
 ---
-
-# 🐍 Contribution Snake
-
-> This requires GitHub Actions setup.
-
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - uses: Platane/snk@v3
-
-        with:
-
-          github_user_name: KartikMalikk
-
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-
-        with:
-
-          target_branch: output
-
-          build_dir: dist
-```
-
-After setup:
-
-```markdown
 ![Snake animation](https://raw.githubusercontent.com/KartikMalikk/KartikMalikk/output/github-contribution-grid-snake.svg)
-```
 
 ---
 
-# 🎵 Spotify Card
-
-If you use Spotify:
-
-```markdown
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-```
 
 ---
 
