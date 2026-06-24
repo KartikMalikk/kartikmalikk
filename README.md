@@ -1,6 +1,22 @@
-# 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm Kartik Malik, a Python Developer and AI/ML enthusiast passionate about building intelligent, scalable, and user-focused applications.<br><br>I specialize in backend development, machine learning, and AI-powered solutions using Python, FastAPI, Django, and modern data technologies.<br><br>🔹 Building REST APIs and full-stack applications  <br>🔹 Exploring Machine Learning, NLP, and Generative AI  <br>🔹 Developing automation tools and intelligent systems  <br>🔹 Learning system design, cloud technologies, and scalable architectures  <br><br>B.Tech in Computer Science Engineering and working on projects that combine software engineering with artificial intelligence.<br><br>🚀 Always learning. Always building.
+<div align="center">
 
+# 💫 About Me:
+## 👋 About Me
+
+Hi, I'm Kartik Malik, a Python Developer and AI/ML enthusiast passionate about building intelligent, scalable, and user-focused applications.
+
+I specialize in backend development, machine learning, and AI-powered solutions using Python, FastAPI, Django, and modern data technologies.
+
+🔹 Building REST APIs and full-stack applications  
+🔹 Exploring Machine Learning, NLP, and Generative AI  
+🔹 Developing automation tools and intelligent systems  
+🔹 Learning system design, cloud technologies, and scalable architectures  
+
+B.Tech in Computer Science Engineering and working on projects that combine software engineering with artificial intelligence.
+
+🚀 Always learning. Always building.
+
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-malik-2a217a401) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:03kartikmalik@gmail.com) 
